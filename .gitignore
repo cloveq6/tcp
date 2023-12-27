@@ -9,3 +9,6 @@
 
 # 忽略所有 Makefile 文件
 [Mm]akefile
+
+# 忽略所有的main文件
+**/main
